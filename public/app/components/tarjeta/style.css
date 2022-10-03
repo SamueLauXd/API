@@ -1,0 +1,67 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+.contenedor{
+    position: relative;
+    overflow: visible;
+    padding: 10px;
+    margin-bottom: 40px;
+    width: 300px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: rgba(131, 131, 131, 0.2) 0px 7px 29px 0px;
+}
+
+.genero{
+    font-family: Helvetica;
+    font-size: 12px;
+    position: absolute;
+    left: 130px;
+    top: 30px;
+    color: rgb(0, 0, 0);
+
+}
+
+.id{
+    font-family: Helvetica;
+    font-size: 12px;
+    position: absolute;
+    left: 130px;
+    top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.imagen{
+    position: absolute;
+    width: 100px;
+}
+
+.nombre{
+    font-family: Helvetica;
+    font-size: 12px;
+    position: absolute;
+    left: 130px;
+    top: 50px;
+    color: rgb(0, 0, 0);
+}
+
+.especie{
+    font-family: Helvetica;
+    font-size: 12px;
+    position: absolute;
+    left: 130px;
+    top: 70px;
+    color: rgb(0, 0, 0);
+}
+
+.estatus{
+    font-family: Helvetica;
+    font-size: 12px;
+    position: absolute;
+    top: 90px;
+    left: 130px;
+    color: rgb(0, 0, 0);
+}
